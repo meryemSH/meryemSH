@@ -8,7 +8,7 @@
     - [QuickSkill](https://quickskill.ma/) (Showcase site)
     - [Mobdie](https://mobdie.ma/) (E-learning platform)
     - [Binfomar](https://binfomar.com/) (E-commerce website)
-    - [Simulator](https://simulateur.tecas-solar.ma/) (Simulation tool)
+    - [Simulator](https://simulateur.tecas-solar.com/) https://simulateur.tecas-solar.com/ (Simulation tool)
 - 💬 Ask me about **Laravel, Livewire, TailwindCSS, FilamentPHP**
 - 📄 Reach me via email: [meryem020803@gmail.com](mailto:meryem020803@gmail.com)
 
