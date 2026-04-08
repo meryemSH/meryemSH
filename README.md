@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meryem Seghrouchni Idrissi</h1>
 
-<p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="right"> <img src="https://www.freepik.com/premium-ai-image/woman-hijab-with-scarf-her-head-sits-laptop_352833727.htm" alt="" /> </p>
 
 - 🌱 I’m currently developing with **Laravel, Livewire, TailwindCSS, FilamentPHP ,Woordpres, Elementor, Woocommerce, Square methode**
-- 🔭 Recent projects include:
-    - [Pizza Near Me](https://pizzanearmeronkonkoma.com) (Woocommerce)
-    - [QuickSkill](https://quickskill.ma/) (Showcase site)
+- 🔭 Some projects:
     - [Mobdie](https://mobdie.ma/) (E-learning platform)
     - [Binfomar](https://binfomar.com/) (E-commerce website)
     - [Simulator](https://simulateur.tecas-solar.com/)(Simulation tool)
