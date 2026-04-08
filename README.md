@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meryem Seghrouchni Idrissi</h1>
 
-<p align="right"> <a href="https://twitter.com/" target="blank"><img src="https://img.freepik.com/premium-photo/woman-hijab-with-scarf-her-head-sits-laptop_1310551-406.jpg" alt="" /></a> </p>
+<p align="right"><img src="https://img.freepik.com/premium-photo/woman-hijab-with-scarf-her-head-sits-laptop_1310551-406.jpg" alt="" > </p>
 
 - 🌱 I’m currently developing with **Laravel, Livewire, TailwindCSS, FilamentPHP ,Woordpres, Elementor, Woocommerce, Square methode**
 - 🔭 Some projects:
