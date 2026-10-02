@@ -2,13 +2,13 @@
 
 <img src="./banner.png" width="100%" alt="Meryem Seghrouchni Idrissi Banner"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=F778BA&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%92%BB;1337+%7C+42+Network+Student+%F0%9F%8E%93;C+%7C+Python+%7C+Web+Development;Building.+Learning.+Improving." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=F778BA&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%92%BB;1337+%7C+42+Network+Student+%F0%9F%8E%93;C+%7C+Python+%7C+Web+Development;Building.+Learning.+Improving." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=meryemSH&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=meryemSH&label=PROFILE+VIEWS&style=for-the-badge&color=ff69b4" alt="Profile views"/>
 
 </div>
 
@@ -22,15 +22,7 @@ class Meryem:
         self.name = "Meryem Seghrouchni Idrissi"
         self.role = "Software Developer"
         self.school = "1337 | 42 Network"
-
-        self.languages = [
-            "C",
-            "Python",
-            "JavaScript",
-            "TypeScript",
-            "PHP"
-        ]
-
+        self.languages = ["C", "Python", "JavaScript", "TypeScript", "PHP"]
         self.interests = [
             "Software Engineering",
             "Backend Development",
@@ -47,11 +39,11 @@ me = Meryem()
 
 I'm a **Software Developer** and a student at **1337 Coding School — 42 Network**.
 
-My journey started with **full-stack web development**, building applications and working with modern web technologies.
+I started my journey through **web development**, building full-stack applications and working with modern web technologies.
 
-Today, I'm going deeper into computer science — strengthening my foundations in **C, algorithms, Unix/Linux, networking, Python, and problem solving**.
+Today, I'm also exploring what happens closer to the system level — strengthening my foundations in **C, algorithms, Unix/Linux, networking, and problem solving**.
 
-I enjoy understanding how things work, experimenting with ideas, debugging problems, and turning what I learn into real projects.
+I enjoy learning by building things, breaking them, understanding why they broke, and making them better.
 
 ---
 
@@ -110,53 +102,20 @@ I enjoy understanding how things work, experimenting with ideas, debugging probl
 
 <div align="center">
 
-<img src="https://badge.mediaplus.ma/darkblue/mseghrou" alt="Meryem's 42 Stats"/>
+<img src="https://badge.mediaplus.ma/darkblue/mseghrou" alt="Meryem's 42 stats"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/meryemSH/libft">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=meryemSH&repo=Libft&theme=radical&hide_border=true&bg_color=0D1117&title_color=F778BA&icon_color=F778BA" />
-</a>
-
-<a href="https://github.com/meryemSH/Pac-Man">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=meryemSH&repo=PacMan&theme=radical&hide_border=true&bg_color=0D1117&title_color=F778BA&icon_color=F778BA" />
-</a>
-
-<a href="https://github.com/meryemSH/maze">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=meryemSH&repo=NetPractice&theme=radical&hide_border=true&bg_color=0D1117&title_color=F778BA&icon_color=F778BA" />
-</a>
-
-</div>
-
-> More projects coming as I progress through my journey. 🚀
-
----
-
-## 🚧 What I'm Working On
+## 🚀 What I'm Working On
 
 - 🎓 Progressing through the **42 / 1337 curriculum**
-- 👾 Building projects with **Python**
 - ⚙️ Strengthening my foundations in **C programming**
-- 🌐 Exploring **computer networking**
-- 🐧 Getting more comfortable with **Unix / Linux**
-- 🧠 Practicing **algorithms & problem solving**
-- 💻 Improving my overall **software engineering skills**
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=meryemSH&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
-
-</div>
+- 🌐 Learning more about **computer networks**
+- 🐍 Building projects with **Python**
+- 💻 Improving my **software engineering** skills
+- 🧠 Practicing algorithms and problem solving
 
 ---
 
@@ -175,16 +134,6 @@ I enjoy understanding how things work, experimenting with ideas, debugging probl
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meryemSH&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meryemSH&bg_color=0D1117&color=F778BA&line=F778BA&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -219,7 +168,7 @@ I enjoy understanding how things work, experimenting with ideas, debugging probl
 <div align="center">
 
 <a href="https://github.com/meryemSH">
-  <img src="https://img.shields.io/badge/GitHub-meryemSH-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-meryemSH-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
