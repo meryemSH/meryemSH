@@ -143,7 +143,7 @@ I enjoy learning by building things, breaking them, understanding why they broke
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/meryemSH/meryemSH/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/meryemSH/meryemSH/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
