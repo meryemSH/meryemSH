@@ -102,7 +102,7 @@ I enjoy learning by building things, breaking them, understanding why they broke
 
 <div align="center">
 
-<img src="https://badge.mediaplus.ma/darkblue/meryemSH" alt="Meryem's 42 stats"/>
+<img src="https://badge.mediaplus.ma/darkblue/mseghrou" alt="Meryem's 42 stats"/>
 
 </div>
 
