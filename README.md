@@ -139,13 +139,23 @@ I enjoy learning by building things, breaking them, understanding why they broke
 
 ---
 
-## 🐍 My Contributions
+
+## 👾 Pac-Man Contributions
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/meryemSH/meryemSH/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/meryemSH/meryemSH/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/meryemSH/meryemSH/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contributions"
+    src="https://raw.githubusercontent.com/meryemSH/meryemSH/output/pacman-contribution-graph-dark.svg"
+    width="100%">
+</picture>
 
 </div>
+
 
 ---
 
